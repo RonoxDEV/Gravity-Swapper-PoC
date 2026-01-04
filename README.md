@@ -7,7 +7,11 @@
 A single item that toggles player gravity. 
 * **Technical focus:** Vector manipulation, packet handling (Client/Server sync).
 * **Added Polish:** Custom sound triggers and particle emitters for immersive feedback.
-[![Watch the video](https://img.youtube.com/vi/v1V63E66CSA/maxresdefault.jpg)](https://www.youtube.com/watch?v=v1V63E66CSA)
+
+
+https://github.com/user-attachments/assets/75bc7b5e-f5c5-4659-888d-a7a2184d5e31
+
+
 ---
 ### 💡 About this Service
 This mod is a live example of my **Tier 1: The Prototype** service. 
